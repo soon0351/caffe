@@ -1,0 +1,6 @@
+{
+  "name": "Stephan Caffe",
+  "description": "Stephan Caffe 스페셜티 커피 및 원두 주문 웹사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
